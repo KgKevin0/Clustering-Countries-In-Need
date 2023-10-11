@@ -17,13 +17,16 @@ Identifying countries in need based on socio-economic and health metrics is para
 - **Clustering and Analysis**:
   - Applied the `K-Means` clustering algorithm and strategically labeled clusters based on their developmental needs.
 
+- **Advanced Data Visualization**:
+  - Made advanced visualizations like the interactive world map heatmap and 3D scatterplot using `Plotly` and `Kaleido`.
+
 - **Technologies and Libraries Used**: 
-  - Demonstrated proficiency with libraries such as `pandas`, `matplotlib`, `seaborn`, `sklearn`, and `yellowbrick`.
+  - Demonstrated proficiency with libraries such as `pandas`, `matplotlib`, `seaborn`, `sklearn`, `plotly`, and `yellowbrick`.
 
 ## Findings & Visualizations
 
 The project's highlight is an interactive world map heatmap, illustrating the distribution of countries based on their clustering results. 
-
+![World Map](./cluster_worldmap_image.png)
 [Click here to explore the interactive world map heatmap!](https://KgKevin0.github.io/Clustering-Countries-In-Need/cluster_worldmap.html)
 
 Key Insights from the heatmap:
@@ -33,7 +36,19 @@ Key Insights from the heatmap:
 
 ## Dataset Overview
 
-The dataset provides a comprehensive view of countries' developmental metrics, encompassing socio-economic indicators like child mortality rate, GDP per capita, health expenditure, life expectancy, and more.
+The dataset, sourced from [Kaggle.com](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data), offers a granular look into the socio-economic and health landscapes of 167 countries. With 10 distinct variables for each country, it paints a detailed picture of global development:
+
+- **Child Mortality**: The death of children under the age of 5 per 1000 live births, serving as a critical indicator of a country's healthcare and overall well-being.
+- **Exports**: The exports of goods and services as a percentage of the total GDP, reflecting a country's trade health.
+- **Health**: The total health spending as a percentage of GDP, indicative of a country's priority on healthcare.
+- **Imports**: The imports of goods and services as a percentage of GDP, providing insights into a country's consumption behavior and trade dependencies.
+- **Income**: The net income per person, a straightforward metric of a country's economic status.
+- **Inflation**: The measurement of the annual growth rate of the Total GDP, offering insights into the economic stability of a country.
+- **Life Expectancy**: The average number of years a newborn child would live if current mortality patterns were to stay the same, often used as a measure of a country's health and well-being.
+- **Total Fertility**: The number of children that would be born to each woman if the current age-fertility rates remain the same.
+- **GDPP**: The GDP per capita, serving as an indicator of the economic health of a country.
+  
+By delving into these metrics, the project offers a holistic perspective on global development patterns, identifying countries that thrive and those in dire need of assistance.
 
 ## Contribution & Feedback
 
