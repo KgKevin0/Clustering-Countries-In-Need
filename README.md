@@ -24,7 +24,7 @@ Identifying countries in need based on socio-economic and health metrics is para
 
 The project's highlight is an interactive world map heatmap, illustrating the distribution of countries based on their clustering results. 
 
-[Click here to explore the interactive world map heatmap!](https://<your-github-username>.github.io/<repository-name>/<html-file-name>.html)
+[Click here to explore the interactive world map heatmap!](https://KgKevin0.github.io/Clustering-Countries-In-Need/cluster_worldmap.html)
 
 Key Insights from the heatmap:
 - **Help Needed**: Regions highlighted in red represent countries facing significant socio-economic challenges, including high child mortality rates.
