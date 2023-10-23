@@ -36,7 +36,7 @@ Key Insights from the heatmap:
 
 ## Dataset Overview
 
-The dataset, sourced from [Kaggle.com](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data), offers a granular look into the socio-economic and health landscapes of 167 countries. With 10 distinct variables for each country, it paints a detailed picture of global development:
+The dataset, sourced from [Kaggle.com](https://www.kaggle.com/datasets/rohan0301/unsupervised-learning-on-country-data), offers a granular look into the socio-economic and health landscapes of 167 countries. With 9 distinct variables for each country, it paints a detailed picture of global development:
 
 - **Child Mortality**: The death of children under the age of 5 per 1000 live births, serving as a critical indicator of a country's healthcare and overall well-being.
 - **Exports**: The exports of goods and services as a percentage of the total GDP, reflecting a country's trade health.
